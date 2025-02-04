@@ -1,0 +1,15 @@
+streamlit>=1.28.0
+langchain>=0.1.0
+langchain-community>=0.0.10
+openai>=1.0.0
+chromadb==0.3.29
+pandas>=2.0.0
+python-dotenv>=1.0.0
+pypdf2>=3.0.0
+python-docx>=0.8.11
+docx2txt>=0.8
+tiktoken>=0.5.1
+faiss-cpu>=1.7.4
+plotly>=5.18.0
+numpy>=1.24.0
+googlemaps>=4.10.0
