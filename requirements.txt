@@ -14,3 +14,4 @@ plotly>=5.18.0
 numpy>=1.24.0
 googlemaps>=4.10.0
 chardet
+pypdf
